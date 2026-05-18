@@ -1,2 +1,2 @@
 ## Pfizer, Extern
-This is the repo for pfizer externship project.
+This is the repo for my pfizer externship project.
